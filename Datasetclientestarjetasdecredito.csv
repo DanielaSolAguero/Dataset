@@ -83,8 +83,6 @@ CLIENTNUM;Attrition_Flag;Customer_Age;Gender;Dependent_count;Education_Level;Mar
 715156383;Existing Customer;44;M;1;Unknown;Unknown;$120K +;Blue;36;6;2;2;34516;1533;32983;0.924;1603;29;0.526;0.044;0.00011743;0.99988
 711013983;Attrited Customer;55;F;4;Unknown;Married;$40K - $60K;Blue;45;2;4;3;2158;0;2158;0.585;615;12;0.714;0;0.99763;0.00236635
 755420433;Existing Customer;59;F;1;Graduate;Married;Unknown;Blue;52;2;3;3;10133;1417;8716;0.383;1068;20;0.818;0.14;0.00028395;0.99972
-794543958;Existing Customer;53;M;1;Graduate;Divorced;$80K - $120K;Blue;35;5;4;2;34516;1219;33297;1.129;1590;27;2;0.035;0.00020404;0.9998
-716396358;Existing Customer;52;M;2;Graduate;Married;$60K - $80K;Blue;47;5;3;0;3085;1910;1175;0.921;1531;35;0.667;0.619;6,64E-01;0.99993
 715398033;Existing Customer;53;M;2;High School;Single;$120K +;Blue;35;4;2;1;19040;2056;16984;0.607;1212;31;0.722;0.108;6,67E-01;0.99993
 711743883;Existing Customer;43;F;3;Uneducated;Single;Less than $40K;Blue;35;5;2;3;4026;0;4026;0.483;1237;32;0.6;0;0.00020424;0.9998
 719720058;Existing Customer;44;M;3;High School;Single;$60K - $80K;Blue;31;4;3;1;12756;837;11919;1.932;1413;14;1.8;0.066;0.00010943;0.99989
